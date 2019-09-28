@@ -10,8 +10,8 @@ Choose one of the following options:
 
 - Download ZIP
 - Clone the repository: `git clone https://github.com/xenleme/js-boilerplate.git`
-- Install dependencies with npm: `npm install`
-- Install dependencies with yarn: `yarn install`
+- Install dependencies with [npm](https://www.npmjs.com/): `npm install`
+- Install dependencies with [yarn](https://yarnpkg.com/lang/en/): `yarn install`
 
 Then you can run dev server using a command `npm run dev-server` or `yarn dev-server`.
 
